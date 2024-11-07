@@ -1,9 +1,9 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log Odin Project
 
 ### Day 0: Jeudi 7 novembre 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Motivation and Mindset.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Comment rester focus ? Comment éviter la gratification instantanée ? Mise en place de l'objectif pour les 100 prochains jours : 1h de code par jour.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** (https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
