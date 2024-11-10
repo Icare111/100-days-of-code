@@ -16,7 +16,7 @@
 
 **Link to work:** (https://www.theodinproject.com/lessons/foundations-git-basics)
 
-## Day 0-1: Dimanche 10 novembre 2024
+## Day 1: Dimanche 10 novembre 2024
 
 **Today's Progress**: Links and Images.
 
